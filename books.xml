@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>R for Data Science</title>
+        <authors>
+            <author>Hadley Wickham</author>
+            <author>Garrett Grolemund</author>
+        </authors>
+        <year>2017</year>
+        <publisher>O'Reilly Media</publisher>
+    </book>
+    <book>
+        <title>The Art of Data Science</title>
+        <authors>
+            <author>Roger D. Peng</author>
+            <author>Elizabeth Matsui</author>
+        </authors>
+        <year>2015</year>
+        <publisher>Leanpub</publisher>
+    </book>
+    <book>
+        <title>Data Science for Business</title>
+        <authors>
+            <author>Foster Provost</author>
+            <author>Tom Fawcett</author>
+        </authors>
+        <year>2013</year>
+        <publisher>O'Reilly Media</publisher>
+    </book>
+</books>
