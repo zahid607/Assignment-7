@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "title": "R for Data Science",
+            "authors": ["Hadley Wickham", "Garrett Grolemund"],
+            "year": 2017,
+            "publisher": "O'Reilly Media"
+        },
+        {
+            "title": "The Art of Data Science",
+            "authors": ["Roger D. Peng", "Elizabeth Matsui"],
+            "year": 2015,
+            "publisher": "Leanpub"
+        },
+        {
+            "title": "Data Science for Business",
+            "authors": ["Foster Provost", "Tom Fawcett"],
+            "year": 2013,
+            "publisher": "O'Reilly Media"
+        }
+    ]
+}
